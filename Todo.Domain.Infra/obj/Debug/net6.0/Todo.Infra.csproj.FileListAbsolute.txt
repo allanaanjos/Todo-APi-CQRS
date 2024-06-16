@@ -1,0 +1,17 @@
+C:\temp\TodoApi\Todo.Domain.Infra\bin\Debug\net6.0\Todo.Infra.deps.json
+C:\temp\TodoApi\Todo.Domain.Infra\bin\Debug\net6.0\Todo.Infra.dll
+C:\temp\TodoApi\Todo.Domain.Infra\bin\Debug\net6.0\Todo.Infra.pdb
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.csproj.AssemblyReference.cache
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.AssemblyInfoInputs.cache
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.AssemblyInfo.cs
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.csproj.CoreCompileInputs.cache
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.dll
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\refint\Todo.Infra.dll
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.pdb
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\ref\Todo.Infra.dll
+C:\temp\TodoApi\Todo.Domain.Infra\bin\Debug\net6.0\Todo.Infra.runtimeconfig.json
+C:\temp\TodoApi\Todo.Domain.Infra\bin\Debug\net6.0\Todo.Domain.dll
+C:\temp\TodoApi\Todo.Domain.Infra\bin\Debug\net6.0\Todo.Domain.pdb
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.csproj.CopyComplete
+C:\temp\TodoApi\Todo.Domain.Infra\obj\Debug\net6.0\Todo.Infra.genruntimeconfig.cache
